@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lag="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <buton onclick="xinchao();">
+    </buton>
+</body>
+<script>
+    function xinchao(){
+        var hoten = prompt('Nhap ho ten cua ban');
+        alert('Xin chao ban');
+        alert('Chuc ban vui ve');
+    }
+</script>
+</html>
